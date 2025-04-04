@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "titulo": "Sudadera Mulyungarie con cremallera",
+    "precio": 25290,
+    "precioOriginal": 84300,
+    "imagen": "./Components/0-images/Sudadera/sudadera-cremallera-mulyu-1.jpg",
+    "descripcion": "Sudadera con cremallera de un cuarto, cómoda y moderna.",
+    "descuento": 70,
+    "colores": ["#979B85", "#222222"],
+    "tallas": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 2,
+    "titulo": "Camiseta Vara Polo",
+    "precio": 33600,
+    "precioOriginal": 42000,
+    "imagen": "./Components/0-images/Camiseta/vara-polo-1.jpg",
+    "descripcion": "Camiseta de algodón cómoda y casual.",
+    "descuento": 20,
+    "colores": ["#375C88", "#FFFFFF"],
+    "tallas": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 3,
+    "titulo": "Chaqueta Bomber Palmer",
+    "precio": 36400,
+    "precioOriginal": 91000,
+    "imagen": "./Components/0-images/Chaqueta/chaqueta-bomber-palmer-1.jpg",
+    "descripcion": "Chaqueta bomber para un look urbano.",
+    "descuento": 60,
+    "colores": ["#8D8D69", "#222222"],
+    "tallas": ["S", "M", "L", "XL", "XXL"]
+  }
+]
